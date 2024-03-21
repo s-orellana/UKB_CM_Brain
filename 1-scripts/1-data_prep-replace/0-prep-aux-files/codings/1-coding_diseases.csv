@@ -1,0 +1,25 @@
+﻿Type,coding,meaning
+1,1066,heart/cardiac problem
+1,1075,heart attack/myocardial infarction
+1,1076,heart failure/pulmonary odema
+1,1077,heart arrhythmia
+1,1078,heart valve problem/heart murmur
+1,1485,irregular heart beat
+1,1079,cardiomyopathy
+1,1588,hypertrophic cardiomyopathy (hcm / hocm)
+1,1067,peripheral vascular disease
+2,1220,diabetes
+2,1222,type 1 diabetes
+2,1223,type 2 diabetes
+3,1192,renal/kidney failure
+3,1427,polycystic kidney
+3,1519,kidney nephropathy
+4,1136,liver/biliary/pancreas problem
+4,1158,liver failure/cirrhosis
+4,1604,alcoholic liver disease / alcoholic cirrhosis
+5,1076,heart failure/pulmonary odema
+5,1093,pulmonary embolism +/- dvt
+5,1121,pulmonary fibrosis
+5,1111,asthma
+5,1124,respiratory failure
+6,1410,other substance abuse/dependency

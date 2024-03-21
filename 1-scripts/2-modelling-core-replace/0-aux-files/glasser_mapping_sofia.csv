@@ -1,0 +1,181 @@
+S_no,glasser_label,glasser_region_grouping,yeo_network,mesulam_class,lobe,N_rois_in_Mclass,N_rois_in_Ynetwork,N_rois_in_lobe,BRAIN_ROI
+ROI_1,V1,V1,Visual,idiotypic,Occipital,23,29,27,V1_ROI
+ROI_2,MST,MT_Complex,Visual,unimodal,Temporal,62,29,43,MST_ROI
+ROI_3,V6,dorsal_stream,Visual,unimodal,Occipital,62,29,27,V6_ROI
+ROI_4,V2,early_visual_cortex,Visual,idiotypic,Occipital,23,29,27,V2_ROI
+ROI_5,V3,early_visual_cortex,Visual,idiotypic,Occipital,23,29,27,V3_ROI
+ROI_6,V4,early_visual_cortex,Visual,unimodal,Occipital,62,29,27,V4_ROI
+ROI_7,V8,ventral_stream,Visual,unimodal,Occipital,62,29,27,V8_ROI
+ROI_8,4,early_somatosensory_and_motor_cortex,Sensory-Motor,idiotypic,Parietal-(pre)Motor,23,28,54,4_ROI
+ROI_9,3b,early_somatosensory_and_motor_cortex,Sensory-Motor,idiotypic,Parietal-(pre)Motor,23,28,54,3b_ROI
+ROI_10,FEF,premotor_cortex,Dorsal Attention,idiotypic,Parietal-(pre)Motor,23,23,54,FEF_ROI
+ROI_11,PEF,premotor_cortex,Dorsal Attention,idiotypic,Parietal-(pre)Motor,23,23,54,PEF_ROI
+ROI_12,55b,premotor_cortex,Ventral Attention,idiotypic,Parietal-(pre)Motor,23,21,54,55b_ROI
+ROI_13,V3A,dorsal_stream,Visual,unimodal,Occipital,62,29,27,V3A_ROI
+ROI_14,RSC,posterior_cingulate_cortex,Default Mode,paralimbic,Parietal-(pre)Motor,30,37,54,RSC_ROI
+ROI_15,POS2,posterior_cingulate_cortex,Fronto-Parietal,heteromodal,Parietal-(pre)Motor,63,28,54,POS2_ROI
+ROI_16,V7,dorsal_stream,Visual,unimodal,Occipital,62,29,27,V7_ROI
+ROI_17,IPS1,dorsal_stream,Dorsal Attention,unimodal,Occipital,62,23,27,IPS1_ROI
+ROI_18,FFC,ventral_stream,Visual,unimodal,Occipital,62,29,27,FFC_ROI
+ROI_19,V3B,dorsal_stream,Visual,unimodal,Occipital,62,29,27,V3B_ROI
+ROI_20,LO1,MT_Complex,Visual,unimodal,Occipital,62,29,27,LO1_ROI
+ROI_21,LO2,MT_Complex,Visual,unimodal,Occipital,62,29,27,LO2_ROI
+ROI_22,PIT,ventral_stream,Visual,unimodal,Occipital,62,29,27,PIT_ROI
+ROI_23,MT,MT_Complex,Visual,unimodal,Temporal,62,29,43,MT_ROI
+ROI_24,A1,early_auditory_cortex,Sensory-Motor,idiotypic,Temporal,23,28,43,A1_ROI
+ROI_25,PSL,sensory_bridge_regions_of_the_temporal_parietal_occipital_junction,Default Mode,unimodal,Parietal-(pre)Motor,62,37,54,PSL_ROI
+ROI_26,SFL,dorsolateral_prefrontal_cortex,Fronto-Parietal,unimodal,Parietal-(pre)Motor,62,28,54,SFL_ROI
+ROI_27,PCV,posterior_cingulate_cortex,Default Mode,heteromodal,Parietal-(pre)Motor,63,37,54,PCV_ROI
+ROI_28,STV,sensory_bridge_regions_of_the_temporal_parietal_occipital_junction,Default Mode,unimodal,Temporal,62,37,43,STV_ROI
+ROI_29,7Pm,superior_parietal_and_IPS_cortex,Fronto-Parietal,heteromodal,Parietal-(pre)Motor,63,28,54,7Pm_ROI
+ROI_30,7m,posterior_cingulate_cortex,Default Mode,heteromodal,Parietal-(pre)Motor,63,37,54,7m_ROI
+ROI_31,POS1,posterior_cingulate_cortex,Default Mode,heteromodal,Parietal-(pre)Motor,63,37,54,POS1_ROI
+ROI_32,23d,posterior_cingulate_cortex,Default Mode,paralimbic,Parietal-(pre)Motor,30,37,54,23d_ROI
+ROI_33,v23ab,posterior_cingulate_cortex,Default Mode,heteromodal,Parietal-(pre)Motor,63,37,54,v23ab_ROI
+ROI_34,d23ab,posterior_cingulate_cortex,Default Mode,paralimbic,Parietal-(pre)Motor,30,37,54,d23ab_ROI
+ROI_35,31pv,posterior_cingulate_cortex,Default Mode,heteromodal,Parietal-(pre)Motor,63,37,54,31pv_ROI
+ROI_36,5m,sensori_motor_associated_paracentral_lobular_and_mid_cingulate_cortex,Sensory-Motor,idiotypic,Parietal-(pre)Motor,23,28,54,5m_ROI
+ROI_37,5mv,sensori_motor_associated_paracentral_lobular_and_mid_cingulate_cortex,Ventral Attention,idiotypic,Parietal-(pre)Motor,23,21,54,5mv_ROI
+ROI_38,23c,sensori_motor_associated_paracentral_lobular_and_mid_cingulate_cortex,Ventral Attention,idiotypic,Parietal-(pre)Motor,23,21,54,23c_ROI
+ROI_39,5L,sensori_motor_associated_paracentral_lobular_and_mid_cingulate_cortex,Sensory-Motor,unimodal,Parietal-(pre)Motor,62,28,54,5L_ROI
+ROI_40,24dd,sensori_motor_associated_paracentral_lobular_and_mid_cingulate_cortex,Sensory-Motor,idiotypic,Parietal-(pre)Motor,23,28,54,24dd_ROI
+ROI_41,24dv,sensori_motor_associated_paracentral_lobular_and_mid_cingulate_cortex,Sensory-Motor,unimodal,Parietal-(pre)Motor,62,28,54,24dv_ROI
+ROI_42,7AL,superior_parietal_and_IPS_cortex,Dorsal Attention,heteromodal,Parietal-(pre)Motor,63,23,54,7AL_ROI
+ROI_43,SCEF,sensori_motor_associated_paracentral_lobular_and_mid_cingulate_cortex,Ventral Attention,unimodal,Parietal-(pre)Motor,62,21,54,SCEF_ROI
+ROI_44,6ma,sensori_motor_associated_paracentral_lobular_and_mid_cingulate_cortex,Ventral Attention,unimodal,Frontal,62,21,47,6ma_ROI
+ROI_45,7Am,superior_parietal_and_IPS_cortex,Dorsal Attention,heteromodal,Parietal-(pre)Motor,63,23,54,7Am_ROI
+ROI_46,7PL,superior_parietal_and_IPS_cortex,Dorsal Attention,heteromodal,Parietal-(pre)Motor,63,23,54,7PL_ROI
+ROI_47,7PC,superior_parietal_and_IPS_cortex,Dorsal Attention,heteromodal,Parietal-(pre)Motor,63,23,54,7PC_ROI
+ROI_48,LIPv,superior_parietal_and_IPS_cortex,Dorsal Attention,heteromodal,Parietal-(pre)Motor,63,23,54,LIPv_ROI
+ROI_49,VIP,superior_parietal_and_IPS_cortex,Dorsal Attention,heteromodal,Parietal-(pre)Motor,63,23,54,VIP_ROI
+ROI_50,MIP,superior_parietal_and_IPS_cortex,Dorsal Attention,heteromodal,Parietal-(pre)Motor,63,23,54,MIP_ROI
+ROI_51,1,early_somatosensory_and_motor_cortex,Sensory-Motor,idiotypic,Parietal-(pre)Motor,23,28,54,1_ROI
+ROI_52,2,early_somatosensory_and_motor_cortex,Sensory-Motor,unimodal,Parietal-(pre)Motor,62,28,54,2_ROI
+ROI_53,3a,early_somatosensory_and_motor_cortex,Sensory-Motor,idiotypic,Parietal-(pre)Motor,23,28,54,3a_ROI
+ROI_54,6d,premotor_cortex,Sensory-Motor,idiotypic,Parietal-(pre)Motor,23,28,54,6d_ROI
+ROI_55,6mp,sensori_motor_associated_paracentral_lobular_and_mid_cingulate_cortex,Sensory-Motor,idiotypic,Frontal,23,28,47,6mp_ROI
+ROI_56,6v,premotor_cortex,Sensory-Motor,idiotypic,Parietal-(pre)Motor,23,28,54,6v_ROI
+ROI_57,p24pr,anterior_cingulate_and_medial_prefrontal_cortex,Ventral Attention,paralimbic,Parietal-(pre)Motor,30,21,54,p24pr_ROI
+ROI_58,33pr,anterior_cingulate_and_medial_prefrontal_cortex,Ventral Attention,paralimbic,Frontal,30,21,47,33pr_ROI
+ROI_59,a24pr,anterior_cingulate_and_medial_prefrontal_cortex,Ventral Attention,paralimbic,Parietal-(pre)Motor,30,21,54,a24pr_ROI
+ROI_60,p32pr,anterior_cingulate_and_medial_prefrontal_cortex,Ventral Attention,paralimbic,Parietal-(pre)Motor,30,21,54,p32pr_ROI
+ROI_61,a24,anterior_cingulate_and_medial_prefrontal_cortex,Default Mode,paralimbic,Frontal,30,37,47,a24_ROI
+ROI_62,d32,anterior_cingulate_and_medial_prefrontal_cortex,Default Mode,heteromodal,Frontal,63,37,47,d32_ROI
+ROI_63,8BM,anterior_cingulate_and_medial_prefrontal_cortex,Fronto-Parietal,heteromodal,Frontal,63,28,47,8BM_ROI
+ROI_64,p32,anterior_cingulate_and_medial_prefrontal_cortex,Default Mode,paralimbic,Frontal,30,37,47,p32_ROI
+ROI_65,10r,anterior_cingulate_and_medial_prefrontal_cortex,Default Mode,heteromodal,Frontal,63,37,47,10r_ROI
+ROI_66,47m,orbital_and_polar_frontal_cortex,Default Mode,paralimbic,Frontal,30,37,47,47m_ROI
+ROI_67,8Av,dorsolateral_prefrontal_cortex,Fronto-Parietal,unimodal,Frontal,62,28,47,8Av_ROI
+ROI_68,8Ad,dorsolateral_prefrontal_cortex,Default Mode,heteromodal,Frontal,63,37,47,8Ad_ROI
+ROI_69,9m,anterior_cingulate_and_medial_prefrontal_cortex,Default Mode,heteromodal,Frontal,63,37,47,9m_ROI
+ROI_70,8BL,dorsolateral_prefrontal_cortex,Default Mode,heteromodal,Frontal,63,37,47,8BL_ROI
+ROI_71,9p,dorsolateral_prefrontal_cortex,Default Mode,heteromodal,Frontal,63,37,47,9p_ROI
+ROI_72,10d,orbital_and_polar_frontal_cortex,Default Mode,heteromodal,Frontal,63,37,47,10d_ROI
+ROI_73,8C,dorsolateral_prefrontal_cortex,Fronto-Parietal,unimodal,Frontal,62,28,47,8C_ROI
+ROI_74,44,inferior_frontal_cortex,Fronto-Parietal,unimodal,Frontal,62,28,47,44_ROI
+ROI_75,45,inferior_frontal_cortex,Default Mode,heteromodal,Frontal,63,37,47,45_ROI
+ROI_76,47l,inferior_frontal_cortex,Default Mode,heteromodal,Frontal,63,37,47,47l_ROI
+ROI_77,a47r,inferior_frontal_cortex,Fronto-Parietal,heteromodal,Frontal,63,28,47,a47r_ROI
+ROI_78,6r,premotor_cortex,Ventral Attention,idiotypic,Frontal,23,21,47,6r_ROI
+ROI_79,IFJa,inferior_frontal_cortex,Fronto-Parietal,unimodal,Frontal,62,28,47,IFJa_ROI
+ROI_80,IFJp,inferior_frontal_cortex,Dorsal Attention,unimodal,Frontal,62,23,47,IFJp_ROI
+ROI_81,IFSp,inferior_frontal_cortex,Fronto-Parietal,unimodal,Frontal,62,28,47,IFSp_ROI
+ROI_82,IFSa,inferior_frontal_cortex,Fronto-Parietal,heteromodal,Frontal,63,28,47,IFSa_ROI
+ROI_83,p9-46v,dorsolateral_prefrontal_cortex,Fronto-Parietal,heteromodal,Frontal,63,28,47,p9-46v_ROI
+ROI_84,46,dorsolateral_prefrontal_cortex,Fronto-Parietal,heteromodal,Frontal,63,28,47,46_ROI
+ROI_85,a9-46v,dorsolateral_prefrontal_cortex,Fronto-Parietal,heteromodal,Frontal,63,28,47,a9-46v_ROI
+ROI_86,9-46d,dorsolateral_prefrontal_cortex,Fronto-Parietal,heteromodal,Frontal,63,28,47,9-46d_ROI
+ROI_87,9a,dorsolateral_prefrontal_cortex,Default Mode,heteromodal,Frontal,63,37,47,9a_ROI
+ROI_88,10v,anterior_cingulate_and_medial_prefrontal_cortex,Limbic,heteromodal,Frontal,63,12,47,10v_ROI
+ROI_89,a10p,orbital_and_polar_frontal_cortex,Fronto-Parietal,heteromodal,Frontal,63,28,47,a10p_ROI
+ROI_90,10pp,orbital_and_polar_frontal_cortex,Limbic,heteromodal,Frontal,63,12,47,10pp_ROI
+ROI_91,11l,orbital_and_polar_frontal_cortex,Fronto-Parietal,heteromodal,Frontal,63,28,47,11l_ROI
+ROI_92,13l,orbital_and_polar_frontal_cortex,Limbic,paralimbic,Frontal,30,12,47,13l_ROI
+ROI_93,OFC,orbital_and_polar_frontal_cortex,Limbic,paralimbic,Frontal,30,12,47,OFC_ROI
+ROI_94,47s,orbital_and_polar_frontal_cortex,Default Mode,paralimbic,Frontal,30,37,47,47s_ROI
+ROI_95,LIPd,superior_parietal_and_IPS_cortex,Dorsal Attention,heteromodal,Parietal-(pre)Motor,63,23,54,LIPd_ROI
+ROI_96,6a,premotor_cortex,Dorsal Attention,unimodal,Frontal,62,23,47,6a_ROI
+ROI_97,i6-8,dorsolateral_prefrontal_cortex,Fronto-Parietal,unimodal,Frontal,62,28,47,i6-8_ROI
+ROI_98,s6-8,dorsolateral_prefrontal_cortex,Fronto-Parietal,unimodal,Frontal,62,28,47,s6-8_ROI
+ROI_99,43,posterior_opercular_cortex,Sensory-Motor,unimodal,Temporal,62,28,43,43_ROI
+ROI_100,OP4,posterior_opercular_cortex,Sensory-Motor,unimodal,Parietal-(pre)Motor,62,28,54,OP4_ROI
+ROI_101,OP1,posterior_opercular_cortex,Sensory-Motor,heteromodal,Temporal,63,28,43,OP1_ROI
+ROI_102,OP2-3,posterior_opercular_cortex,Sensory-Motor,heteromodal,Temporal,63,28,43,OP2-3_ROI
+ROI_103,52,early_auditory_cortex,Sensory-Motor,unimodal,Temporal,62,28,43,52_ROI
+ROI_104,RI,early_auditory_cortex,Sensory-Motor,unimodal,Temporal,62,28,43,RI_ROI
+ROI_105,PFcm,early_auditory_cortex,Sensory-Motor,unimodal,Parietal-(pre)Motor,62,28,54,PFcm_ROI
+ROI_106,PoI2,insular_and_frontal_opercular_cortex,Ventral Attention,paralimbic,Temporal,30,21,43,PoI2_ROI
+ROI_107,TA2,association_auditory_cortex,Sensory-Motor,unimodal,Temporal,62,28,43,TA2_ROI
+ROI_108,FOP4,insular_and_frontal_opercular_cortex,Ventral Attention,heteromodal,Frontal,63,21,47,FOP4_ROI
+ROI_109,MI,insular_and_frontal_opercular_cortex,Ventral Attention,paralimbic,Temporal,30,21,43,MI_ROI
+ROI_110,Pir,insular_and_frontal_opercular_cortex,subcortex,cortical_wall,Temporal,2,2,43,Pir_ROI
+ROI_111,AVI,insular_and_frontal_opercular_cortex,Fronto-Parietal,paralimbic,Temporal,30,28,43,AVI_ROI
+ROI_112,AAIC,insular_and_frontal_opercular_cortex,Default Mode,paralimbic,Temporal,30,37,43,AAIC_ROI
+ROI_113,FOP1,posterior_opercular_cortex,Ventral Attention,heteromodal,Temporal,63,21,43,FOP1_ROI
+ROI_114,FOP3,insular_and_frontal_opercular_cortex,Ventral Attention,heteromodal,Temporal,63,21,43,FOP3_ROI
+ROI_115,FOP2,insular_and_frontal_opercular_cortex,Sensory-Motor,unimodal,Temporal,62,28,43,FOP2_ROI
+ROI_116,PFt,inferior_parietal_cortex,Dorsal Attention,unimodal,Parietal-(pre)Motor,62,23,54,PFt_ROI
+ROI_117,AIP,superior_parietal_and_IPS_cortex,Dorsal Attention,heteromodal,Parietal-(pre)Motor,63,23,54,AIP_ROI
+ROI_118,EC,medial_temporal_cortex,Limbic,paralimbic,Medial Temporal,30,12,7,EC_ROI
+ROI_119,PreS,medial_temporal_cortex,Visual,paralimbic,Medial Temporal,30,29,7,PreS_ROI
+ROI_120,H,medial_temporal_cortex,subcortex,cortical_wall,Medial Temporal,2,2,7,H_ROI
+ROI_121,ProS,posterior_cingulate_cortex,Visual,idiotypic,Occipital,23,29,27,ProS_ROI
+ROI_122,PeEc,medial_temporal_cortex,Limbic,paralimbic,Occipital,30,12,27,PeEc_ROI
+ROI_123,STGa,association_auditory_cortex,Default Mode,paralimbic,Medial Temporal,30,37,7,STGa_ROI
+ROI_124,PBelt,early_auditory_cortex,Sensory-Motor,unimodal,Temporal,62,28,43,PBelt_ROI
+ROI_125,A5,association_auditory_cortex,Sensory-Motor,unimodal,Temporal,62,28,43,A5_ROI
+ROI_126,PHA1,medial_temporal_cortex,Visual,paralimbic,Medial Temporal,30,29,7,PHA1_ROI
+ROI_127,PHA3,medial_temporal_cortex,Visual,unimodal,Occipital,62,29,27,PHA3_ROI
+ROI_128,STSda,association_auditory_cortex,Default Mode,unimodal,Temporal,62,37,43,STSda_ROI
+ROI_129,STSdp,association_auditory_cortex,Default Mode,unimodal,Temporal,62,37,43,STSdp_ROI
+ROI_130,STSvp,association_auditory_cortex,Default Mode,unimodal,Temporal,62,37,43,STSvp_ROI
+ROI_131,TGd,lateral_temporal_cortex,Limbic,paralimbic,Medial Temporal,30,12,7,TGd_ROI
+ROI_132,TE1a,lateral_temporal_cortex,Default Mode,heteromodal,Temporal,63,37,43,TE1a_ROI
+ROI_133,TE1p,lateral_temporal_cortex,Fronto-Parietal,heteromodal,Temporal,63,28,43,TE1p_ROI
+ROI_134,TE2a,lateral_temporal_cortex,Limbic,unimodal,Temporal,62,12,43,TE2a_ROI
+ROI_135,TF,medial_temporal_cortex,Limbic,unimodal,Temporal,62,12,43,TF_ROI
+ROI_136,TE2p,lateral_temporal_cortex,Dorsal Attention,unimodal,Temporal,62,23,43,TE2p_ROI
+ROI_137,PHT,lateral_temporal_cortex,Dorsal Attention,heteromodal,Temporal,63,23,43,PHT_ROI
+ROI_138,PH,MT_Complex,Dorsal Attention,unimodal,Temporal,62,23,43,PH_ROI
+ROI_139,TPOJ1,sensory_bridge_regions_of_the_temporal_parietal_occipital_junction,Ventral Attention,heteromodal,Temporal,63,21,43,TPOJ1_ROI
+ROI_140,TPOJ2,sensory_bridge_regions_of_the_temporal_parietal_occipital_junction,Dorsal Attention,heteromodal,Temporal,63,23,43,TPOJ2_ROI
+ROI_141,TPOJ3,sensory_bridge_regions_of_the_temporal_parietal_occipital_junction,Dorsal Attention,heteromodal,Temporal,63,23,43,TPOJ3_ROI
+ROI_142,DVT,posterior_cingulate_cortex,Visual,unimodal,Parietal-(pre)Motor,62,29,54,DVT_ROI
+ROI_143,PGp,inferior_parietal_cortex,Dorsal Attention,unimodal,Occipital,62,23,27,PGp_ROI
+ROI_144,IP2,inferior_parietal_cortex,Fronto-Parietal,heteromodal,Parietal-(pre)Motor,63,28,54,IP2_ROI
+ROI_145,IP1,inferior_parietal_cortex,Fronto-Parietal,heteromodal,Parietal-(pre)Motor,63,28,54,IP1_ROI
+ROI_146,IP0,inferior_parietal_cortex,Dorsal Attention,unimodal,Occipital,62,23,27,IP0_ROI
+ROI_147,PFop,inferior_parietal_cortex,Ventral Attention,heteromodal,Parietal-(pre)Motor,63,21,54,PFop_ROI
+ROI_148,PF,inferior_parietal_cortex,Ventral Attention,heteromodal,Parietal-(pre)Motor,63,21,54,PF_ROI
+ROI_149,PFm,inferior_parietal_cortex,Fronto-Parietal,heteromodal,Parietal-(pre)Motor,63,28,54,PFm_ROI
+ROI_150,PGi,inferior_parietal_cortex,Default Mode,heteromodal,Parietal-(pre)Motor,63,37,54,PGi_ROI
+ROI_151,PGs,inferior_parietal_cortex,Default Mode,heteromodal,Parietal-(pre)Motor,63,37,54,PGs_ROI
+ROI_152,V6A,dorsal_stream,Visual,unimodal,Occipital,62,29,27,V6A_ROI
+ROI_153,VMV1,ventral_stream,Visual,idiotypic,Occipital,23,29,27,VMV1_ROI
+ROI_154,VMV3,ventral_stream,Visual,unimodal,Occipital,62,29,27,VMV3_ROI
+ROI_155,PHA2,medial_temporal_cortex,Visual,heteromodal,Medial Temporal,63,29,7,PHA2_ROI
+ROI_156,V4t,MT_Complex,Visual,unimodal,Occipital,62,29,27,V4t_ROI
+ROI_157,FST,MT_Complex,Dorsal Attention,unimodal,Temporal,62,23,43,FST_ROI
+ROI_158,V3CD,MT_Complex,Visual,unimodal,Occipital,62,29,27,V3CD_ROI
+ROI_159,LO3,MT_Complex,Visual,unimodal,Occipital,62,29,27,LO3_ROI
+ROI_160,VMV2,ventral_stream,Visual,idiotypic,Occipital,23,29,27,VMV2_ROI
+ROI_161,31pd,posterior_cingulate_cortex,Default Mode,heteromodal,Parietal-(pre)Motor,63,37,54,31pd_ROI
+ROI_162,31a,posterior_cingulate_cortex,Fronto-Parietal,heteromodal,Parietal-(pre)Motor,63,28,54,31a_ROI
+ROI_163,VVC,ventral_stream,Visual,unimodal,Occipital,62,29,27,VVC_ROI
+ROI_164,25,anterior_cingulate_and_medial_prefrontal_cortex,Limbic,paralimbic,Subcortical,30,12,2,25_ROI
+ROI_165,s32,anterior_cingulate_and_medial_prefrontal_cortex,Default Mode,paralimbic,Frontal,30,37,47,s32_ROI
+ROI_166,pOFC,anterior_cingulate_and_medial_prefrontal_cortex,Limbic,paralimbic,Subcortical,30,12,2,pOFC_ROI
+ROI_167,PoI1,insular_and_frontal_opercular_cortex,Ventral Attention,paralimbic,Temporal,30,21,43,PoI1_ROI
+ROI_168,Ig,insular_and_frontal_opercular_cortex,Sensory-Motor,paralimbic,Temporal,30,28,43,Ig_ROI
+ROI_169,FOP5,insular_and_frontal_opercular_cortex,Ventral Attention,heteromodal,Frontal,63,21,47,FOP5_ROI
+ROI_170,p10p,orbital_and_polar_frontal_cortex,Fronto-Parietal,heteromodal,Frontal,63,28,47,p10p_ROI
+ROI_171,p47r,inferior_frontal_cortex,Fronto-Parietal,heteromodal,Frontal,63,28,47,p47r_ROI
+ROI_172,TGv,lateral_temporal_cortex,Limbic,paralimbic,Temporal,30,12,43,TGv_ROI
+ROI_173,MBelt,early_auditory_cortex,Sensory-Motor,unimodal,Temporal,62,28,43,MBelt_ROI
+ROI_174,LBelt,early_auditory_cortex,Sensory-Motor,idiotypic,Temporal,23,28,43,LBelt_ROI
+ROI_175,A4,association_auditory_cortex,Sensory-Motor,unimodal,Temporal,62,28,43,A4_ROI
+ROI_176,STSva,association_auditory_cortex,Default Mode,unimodal,Temporal,62,37,43,STSva_ROI
+ROI_177,TE1m,lateral_temporal_cortex,Default Mode,heteromodal,Temporal,63,37,43,TE1m_ROI
+ROI_178,PI,insular_and_frontal_opercular_cortex,Ventral Attention,unimodal,Temporal,62,21,43,PI_ROI
+ROI_179,a32pr,anterior_cingulate_and_medial_prefrontal_cortex,Fronto-Parietal,heteromodal,Frontal,63,28,47,a32pr_ROI
+ROI_180,p24,anterior_cingulate_and_medial_prefrontal_cortex,Default Mode,paralimbic,Frontal,30,37,47,p24_ROI

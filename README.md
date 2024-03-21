@@ -37,7 +37,7 @@ Other empty directories in the repository are expected by the scripts as output 
 
 **Caveats:**
 
-            - Please note that some of the code in the directory *1-data_prep-replace* is designed for supplementary analyses, but not fully supported by this repository.  
+            - Please note that some of the code in the directory _1-data_prep-replace_ is designed for supplementary analyses, but not fully supported by this repository.  
             - Code for spin tests was cloned and adapted from [this repository](https://github.com/frantisekvasa/rotate_parcellation).
 
 

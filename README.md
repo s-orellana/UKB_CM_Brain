@@ -2,7 +2,7 @@
 
 Author: Sofia C. Orellana
 
-This repository contains code to generate the main results of the manuscript "Childhood maltreatment influences adult brain structure through its effects on immune, metabolic and psychosocial factors" by Sofia C. Orellana, Richard A.I. Bethlehem,  Ivan Simpson-Kent, Anne-Laura van Harmelen,  Petra E. Vértes and Edward Bullmore. *Proceedings of the National Academy of Sciences* (In press)
+This repository contains code to generate the main results of the manuscript ["Childhood maltreatment influences adult brain structure through its effects on immune, metabolic and psychosocial factors"](https://www.pnas.org/doi/10.1073/pnas.2304704121#core-collateral-metrics) by Sofia C. Orellana, Richard A.I. Bethlehem,  Ivan Simpson-Kent, Anne-Laura van Harmelen,  Petra E. Vértes and Edward Bullmore. Published in *Proceedings of the National Academy of Sciences* (2024)
 
 
 ## Data
